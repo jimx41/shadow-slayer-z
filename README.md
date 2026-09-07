@@ -1,2 +1,2 @@
 # shadow-slayer-z
-TOS and Privacy policy for my game Shadow Slayer Z.
+TOS and Privacy Policy for the game Shadow Slayer Z.
